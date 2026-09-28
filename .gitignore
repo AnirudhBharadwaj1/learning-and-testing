@@ -1,4 +1,5 @@
+database.db
+
 *__pycache__
 speech-to-text/.venv
-
 speech-to-text/output.txt

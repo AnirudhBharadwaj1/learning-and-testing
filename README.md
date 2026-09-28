@@ -14,6 +14,14 @@
 
 ---
 
+#### Learning SQL
+
+**Folder:** learning-sql
+**Purpose:** Test schema and data to get familiar with SQL and practice questions/queries for learning key concepts.
+**Last Updated:** Feb 2026
+
+---
+
 #### Speech to Text Testing
 
 **Folder:** speech-to-text
